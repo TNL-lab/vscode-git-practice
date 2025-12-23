@@ -6,4 +6,4 @@ This project is for practicing Git using VS Code.
 
 See todo.txt for details.
 
-This project is for practicing Git fundamentals in VS Code.
+Add one more line
