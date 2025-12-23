@@ -1,0 +1,5 @@
+Learn Git
+Practice branching
+Resolve conflicts
+## TODO
+See todo.txt for details.
